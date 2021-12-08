@@ -1,1 +1,2 @@
-# Lab criando repositorio no Github
+# Lab - Repositório de Projeto sobre Git/Github DIO
+
